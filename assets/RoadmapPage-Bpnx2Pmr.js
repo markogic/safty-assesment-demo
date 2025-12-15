@@ -1,1 +1,0 @@
-import{j as a}from"./index-EUv0lF0E.js";function r(){return a.jsxs("div",{className:"roadmap-overview-page",children:[a.jsx("h2",{children:"Roadmap Diagram"}),a.jsx("p",{className:"u-text-muted",children:"This is a placeholder page. Replace with your diagram/content."})]})}export{r as default};
